@@ -1,0 +1,24 @@
+#canvas {
+  border-radius: 5px;
+  background-color: lightblue;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: arial;
+}
+
+body {
+  position: fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+  opacity: 0.9;
+}
+h1 {
+  color: rgb(173, 196, 230);
+}
